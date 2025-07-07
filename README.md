@@ -1,5 +1,5 @@
 
-# Titulo do projeto
+# shopping-list
 
 Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
 
