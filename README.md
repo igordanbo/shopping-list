@@ -1,7 +1,7 @@
 
 # shopping-list
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Aplicação web de lista de compras. Projeto criado com foco em aprendizado e prática de manipulação do DOM, eventos e lógica em JavaScript.
 
 ## 🔨 Funcionalidades do projeto
 
